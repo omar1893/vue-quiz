@@ -56,7 +56,7 @@
     "webpack-merge": "^4.1.0"
   },
   "engines": {
-    "node": ">= 4.0.0",
+    "node": "6.11.4",
     "npm": ">= 3.0.0"
   },
   "browserslist": [
